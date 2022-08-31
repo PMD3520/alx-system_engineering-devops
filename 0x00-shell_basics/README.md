@@ -1,2 +1,1 @@
-#!/bin/bash
-My second readme
+where am i
